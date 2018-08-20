@@ -7,9 +7,9 @@ public class MFU {
 
         MFU mfu = new MFU();
         mfu.scan("Tutorial", 24);
-        mfu.scan("Cookies",50);
-        mfu.print("Book",55);
-        mfu.print("Moto",23);
+        mfu.scan("Cookies", 50);
+        mfu.print("Book", 55);
+        mfu.print("Moto", 23);
 
     }
 
